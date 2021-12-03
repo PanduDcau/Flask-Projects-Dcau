@@ -1,4 +1,4 @@
-# Forest-Fire-Prediction-Website
+# Flask Web Applications
 Flask is a Python API that allows us to create web-based applications.  Flask's framework is more clear than Django's, and it's also easier to learn because it requires less basic code to create a simple web application. A Web-Application Framework, often known as a Web Framework, is a set of modules and libraries that allow programmers to create apps without having to write low-level code like protocols and thread management.
 
 
