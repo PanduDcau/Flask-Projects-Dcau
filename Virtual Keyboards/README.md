@@ -19,7 +19,11 @@ Install requirements.txt
 
 ```
 ## 3.Demonstartion Video
-![Demo](https://github.com/Pandula1234/Flask-Projects-Dcau/blob/main/Virtual%20Keyboards/Asset/Virtual%20Keyboard.mp4)
+
+
+https://user-images.githubusercontent.com/52339029/144984138-7f6a31b5-742a-4b2d-8d4b-2ac219174542.mp4
+
+
 
 <!-- license -->
 ## 6. License
