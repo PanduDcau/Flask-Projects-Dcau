@@ -15,6 +15,7 @@ To establish a reactive data source in shiny, we utilize the Reactive polling fu
  1. Ms Excel
  2. RStudio Application
  ```
+#### Use Two Sessions to Run the Application Parallelly
 
 ## Demonstration
 
