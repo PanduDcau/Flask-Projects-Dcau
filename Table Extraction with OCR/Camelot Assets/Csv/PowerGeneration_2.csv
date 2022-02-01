@@ -1,0 +1,31 @@
+0,Complex/Location wise contribution,,,Technology wise contribution of MW,,,
+1,,"MW
+MVAr",,,MW,MVAr,MW %
+2,K-M Complex Hydro,"281.3
+63.9",,Hydro2,1223.6,143,48.80%
+3,Mahaweli Complex Hydro,"689.2
+52.3",,Thermal Coal,466.2,72.2,18.60%
+4,Samanala Hydro,154.5,26.8,Thermal Oil,192,70.5,7.70%
+5,CEB Small Hydro,8.7,0,IPP Thermal,617.2,114.9,24.60%
+6,CEB Thermal - Coal,466.2,72.2,Wind,8,0,0.30%
+7,CEB Thermal- Oil,192,70.5,Solar PV(Bulk),0,0,0.00%
+8,IPP Thermal,617.2,114.9,Capacitors,,79.2,
+9,IPP2 (MHP+BMP),89.9,N/A,Total,2507,479.8,"pf -
+0.98 @
+19:00 h"
+10,Wind,8,0,Day Peak2 and Minimum2 Generation,,,
+11,,,,"MW     
+MVAr",,,
+12,Capacitors,-,,"79.2 Minimum Generation2
+1379.4
+-31.1
+pf -
+1.00 @
+3:15 h",,,
+13,"Total Night Peak3
+2507.0",,,"479.8 Day peak Generation2
+2159.4
+728.3
+pf -
+0.95 @
+16:00 h",,,
