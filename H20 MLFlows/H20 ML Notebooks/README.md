@@ -10,8 +10,11 @@ Follow the instructions [here](https://wave.h2o.ai/docs/installation) to downloa
 ## Available Steps
 
 **Step 1:** cd ~/Downloads
+
 **Step 2:** unzip h2o-3.36.0.2.zip
+
 **Step 3:** cd h2o-3.36.0.2
+
 **Step 4:** java -jar h2o.jar
 
 **After these Procedures Run the H2o Flow**
