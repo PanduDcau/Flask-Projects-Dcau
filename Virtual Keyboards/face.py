@@ -1,6 +1,5 @@
 from cvzone.FaceDetectionModule import FaceDetector
 import cv2
-
 cap = cv2.VideoCapture(0)
 detector = FaceDetector()
 
