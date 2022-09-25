@@ -2,7 +2,7 @@ library(factoextra)
 library(cluster)
 
 #Creating the matrix for the 11 Objects
-mat1.data <- c(2,9,2,5,8,4,5,8,7,5,6,4,1,2,4,9,7,3,2,4)
+mat1.data <- c(2,9,2,5,8,4,5,8,7,5,6,4,1,2,4,9,7,3,2,4,8,5)
 
 rnames <- c("1","2","3","4","5","6","7","8","9","10","11")
 cnames <- c("x","y")
