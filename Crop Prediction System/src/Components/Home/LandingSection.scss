@@ -1,0 +1,30 @@
+.landingSection{
+    background-image: url('../../Images/bg1.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 70px;
+
+    h1{
+        color: white;
+        font-weight: 900;
+        font-size: 5.5em;
+        margin: 0;
+        line-height: 100%;
+        margin: 10px 0;
+    }
+    h2{
+        color: white;
+        font-weight: 400;
+        font-size: 4em;
+        margin: 0;
+        line-height: 100%;
+        margin: 10px 0;
+    }
+    p {
+        color: #D9D9D9;
+        font-size: 1.3em;
+        margin: 0;
+    }
+}
