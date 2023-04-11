@@ -44,7 +44,7 @@ All the required libraries are included in the file <code>requirements.txt</code
 ## 🚀**Installation**
 Step-1: Clone this repository
 ```
-$ git clone https://github.com/sidharth178/Face-Mask-Detection-and-Alert-System.git
+$ git clone 
 ```
 Step-2: Change your directory to the cloned repository
 ```
