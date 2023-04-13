@@ -62,11 +62,9 @@ $ python detect_mask_live.py
 ## 🅰️**Accuracy & Loss**
 <img src="Images/loss_accuracy_img.png" style="width:800px;height:300px;">
 
-## ❤️**Owner**
-Made With ❤️ by [Sidharth kumar mohanty](https://www.linkedin.com/in/sidharth178)
 
 ## 😖Troubleshoot
-Any issues??? Feel free to ask. [Linkedin](https://www.linkedin.com/in/sidharth178)
+Any issues??? Feel free to ask. [Linkedin]()
 
 If you find this repo useful,don't forget to give a ⭐
 
