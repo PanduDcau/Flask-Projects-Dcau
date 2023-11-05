@@ -1,4 +1,4 @@
-# [Skin Cancer Detection using TensorFlow in Python](https://www.thepythoncode.com/article/skin-cancer-detection-using-tensorflow-in-python)
+# [Skin Cancer Detection using TensorFlow in Python]
 To follow along, run:
 - `pip3 install -r requirements.txt`
 
