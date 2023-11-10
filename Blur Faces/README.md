@@ -16,4 +16,4 @@ To run this:
     python blur_faces_video.py video.3gp
     ```
 - Father Daughter Original Photo:
-![ReadME]()
+![Father](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/father-and-daughter.jpg)
