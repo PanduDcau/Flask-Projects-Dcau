@@ -17,3 +17,6 @@ To run this:
     ```
 - Father Daughter Original Photo:
 ![Father](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/father-and-daughter.jpg)
+
+- Father Daughter Blurred Photo:
+![Father](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/images/image_blurred.jpg)
