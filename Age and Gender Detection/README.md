@@ -7,3 +7,5 @@ To run this:
     $ python age_and_gender_detection.py images/kids.jpg
     ```
 - You can also use your camera, via the `age_and_gender_detection_live.py` script.
+- Restults of the Age Detection with Gender
+![Output]()
