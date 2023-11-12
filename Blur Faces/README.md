@@ -20,3 +20,6 @@ To run this:
 
 - Father Daughter Blurred Photo:
 ![Father](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/images/image_blurred.jpg)
+
+- Real Time Video Blurring
+![Video](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/images/Videofile.png)
