@@ -32,7 +32,7 @@ while True:
             # get the surrounding box cordinates and upscale them to original image
             box = output[i, 3:7] * np.array([w, h, w, h])
             # convert to integers
-            start_x, start_y, end_x, end_y = box.astype(np.int)
+            start_x, start_y, end_x, end_y = box.astype(int)
             # get the face image
             face = image[start_y: end_y, start_x: end_x]
             # apply gaussian blur to this face
