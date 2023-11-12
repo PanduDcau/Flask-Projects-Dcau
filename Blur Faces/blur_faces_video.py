@@ -10,13 +10,18 @@ model_path = "weights/res10_300x300_ssd_iter_140000_fp16.caffemodel"
 
 # load Caffe model
 model = cv2.dnn.readNetFromCaffe(prototxt_path, model_path)
+
 # get video file from command line
-video_file = sys.argv[1]
+# video_file = sys.argv[1]
+
+video_file = "IntroVideo.mp4"
+
 # capture frames from video
 cap = cv2.VideoCapture(video_file)
 fourcc = cv2.VideoWriter_fourcc(*"XVID")
 _, image = cap.read()
 print(image.shape)
+
 out = cv2.VideoWriter("output.avi", fourcc, 20.0, (image.shape[1], image.shape[0]))
 while True:
     start = time.time()
@@ -41,7 +46,7 @@ while True:
             # get the surrounding box cordinates and upscale them to original image
             box = output[i, 3:7] * np.array([w, h, w, h])
             # convert to integers
-            start_x, start_y, end_x, end_y = box.astype(np.int)
+            start_x, start_y, end_x, end_y = box.astype(int)
             # get the face image
             face = image[start_y: end_y, start_x: end_x]
             # apply gaussian blur to this face
