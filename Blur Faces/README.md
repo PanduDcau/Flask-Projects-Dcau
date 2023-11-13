@@ -23,3 +23,6 @@ To run this:
 
 - Real Time Video Blurring
 ![Video](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/images/Videofile.png)
+
+-Blur Face in Live 
+![Blur Face](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Blur%20Faces/images/Blur%20face.png)
