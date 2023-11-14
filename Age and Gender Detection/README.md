@@ -11,5 +11,6 @@ To run this:
     ```
 python age_and_gender_detection.py output-donald.jpg
     ```
+- The Output File
 ![Output](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Age%20and%20Gender%20Detection/output-donald.jpg)
 
