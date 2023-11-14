@@ -8,8 +8,9 @@ To run this:
     ```
 - You can also use your camera, via the `age_and_gender_detection_live.py` script.
 - Restults of the Age Detection with Gender
-    ```python age_and_gender_detection.py output-donald.jpg
-
+    ```
+  $ python age_and_gender_detection.py output-donald.jpg
+   ```
 - The Output File
 ![Output](https://github.com/PanduDcau/Flask-Projects-Dcau/blob/main/Age%20and%20Gender%20Detection/output-donald.jpg)
 
