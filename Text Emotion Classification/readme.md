@@ -19,6 +19,7 @@ This project aims to build a ML model that can predict the emotion expressed in 
 - keras
 - tensorflow
 - scikit-learn
+- mathplotlib
 
 You can install the required packages using pip:
 
