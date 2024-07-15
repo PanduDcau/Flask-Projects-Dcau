@@ -61,5 +61,5 @@ To make predictions on new input text:
 
 1. Load the trained model, tokenizer, and label encoder.
 2. Preprocess the input text (tokenize and pad the sequence).
-3. Use the model to predict the emotion.
+3. Use the model to predict the emotion type.
 4. Decode the predicted label using the label encoder.
