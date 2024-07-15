@@ -42,7 +42,7 @@ The sequences are padded to ensure uniform input length for the model.
 The emotion labels are encoded into integers using `LabelEncoder` from scikit-learn.
 
 ## Model Training
-The model is a Sequential neural network consisting of the following layers:
+The model is a Sequential Neural Network consisting of the following layers:
 
 - **Embedding Layer**: Converts integer sequences to dense vectors of fixed size.
 - **Flatten Layer**: Flattens the input.
