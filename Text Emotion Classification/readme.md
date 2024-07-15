@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a machine learning model that can predict the emotion expressed in a given text. The model is trained on a dataset containing sentences labeled with corresponding emotions. The primary goal is to classify text data into predefined emotion categories using Natural Language Processing (NLP) techniques and deep learning models.
+This project aims to build a ML model that can predict the emotion expressed in a given text. The model is trained on a dataset containing sentences labeled with corresponding emotions. The primary goal is to classify text data into predefined emotion categories using Natural Language Processing (NLP) techniques and deep learning models.
 
 ## Project Structure
 
