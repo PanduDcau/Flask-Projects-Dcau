@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a ML model that can predict the emotion expressed in a given text. The model is trained on a dataset containing sentences labeled with corresponding emotions. The primary goal is to classify text data into predefined emotion categories using Natural Language Processing (NLP) techniques and deep learning models.
+This project aims to build a machine learning model that can predict the emotion expressed in a given text. The model is trained on a dataset containing sentences labeled with corresponding emotions. The primary goal is to classify text data into predefined emotion categories using Natural Language Processing (NLP) techniques and deep learning models.
 
 ## Project Structure
 
@@ -19,7 +19,6 @@ This project aims to build a ML model that can predict the emotion expressed in 
 - keras
 - tensorflow
 - scikit-learn
-- mathplotlib
 
 You can install the required packages using pip:
 
@@ -42,7 +41,7 @@ The sequences are padded to ensure uniform input length for the model.
 The emotion labels are encoded into integers using `LabelEncoder` from scikit-learn.
 
 ## Model Training
-The model is a Sequential Neural Network consisting of the following layers:
+The model is a Sequential neural network consisting of the following layers:
 
 - **Embedding Layer**: Converts integer sequences to dense vectors of fixed size.
 - **Flatten Layer**: Flattens the input.
@@ -61,5 +60,5 @@ To make predictions on new input text:
 
 1. Load the trained model, tokenizer, and label encoder.
 2. Preprocess the input text (tokenize and pad the sequence).
-3. Use the model to predict the emotion type.
+3. Use the model to predict the emotion.
 4. Decode the predicted label using the label encoder.
